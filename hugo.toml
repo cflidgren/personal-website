@@ -1,0 +1,39 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Carl-Fredrik Lidgren'
+#theme = "PaperMod"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/adityatelange/hugo-PaperMod'
+
+[params]
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+  Title = "Carl-Fredrik Lidgren"
+  Content = "Personal website"
+
+  [[params.socialIcons]]
+  name = "GitHub"
+  url = "https://github.com/cflidgren"
+
+  [[params.socialIcons]]
+  name = "Bandcamp"
+  url = "https://gren.bandcamp.com"
+
+  [params.profileMode]
+  enabled=true
+  subtitle='Mathematician & Musician'
+
+  [[params.profileMode.buttons]]
+  name = "About Me"
+  url = "/about-me"
+
+[[menu.main]]
+  identifier = "about-me"
+  name = "About Me"
+  url = "/about-me"
+  weight = 10
+
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Carl-Fredrik Lidgren</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Carl-Fredrik Lidgren</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 19:14:43 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Sat, 08 Feb 2025 19:14:43 +0100</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;p&gt;I have an interest in mathematics and music. I have a master&amp;rsquo;s degree in mathematics from Lund University.&lt;/p&gt;
+&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
+&lt;p&gt;My interests are numerous, but mainly fall within the intersection between geometry and \(\infty\)-categories.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

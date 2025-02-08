@@ -1,0 +1,14 @@
+{
+    "basics" : {
+        "name" : "Carl-Fredrik Lidgren",
+        "label" : "Mathematician & Musician",
+        "email" : "carl.fredrik.lidgren@gmail.com",
+        "profiles" : [
+            {
+                "network" : "GitHub",
+                "username" : "cflidgren",
+                "url" : "https://github.com/cflidgren"
+            }
+        ]
+    }
+}
