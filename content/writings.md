@@ -37,10 +37,31 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-This page collects what writing I have done in the academic sphere.
+This page collects some writing I have done in the mathematical sphere.
 
 ## Preprints
 
+1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._ {{< arxiv "2410.19161" >}}
+1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _On joint eigen-decompositions of matrices._ {{< arxiv "2409.10292">}}
+{reversed="reversed"}
+
 ## Notes
+Sometimes I write notes on topics I'm interested in. They are not polished, and I rarely read them again after writing them. Therefore, expect that they should not be taken too seriously.
 
+**Lecture notes.** Available [here](/writings/lectures.pdf). An assortment of lecture notes, primarily on category theory, in preparation for mostly private lectures
+to some friends. Don't have good name for it because it's not a focused project.
 
+**Final objects in \\(\infty\\)-categories.** Available [here](/writing/higher-categories-learning-seminar-2025-01-15.pdf). Follows Cisinski's 2019 book. Written as lecture notes in
+preparation for a talk held in the introductory branch of a learning seminar on higher categories, organized by Bernhard Keller and Gustavo Jasso.
+
+**Commutative algebra.** Available [here](/writings/mma330-notes.pdf). Notes based on Miles Reid's book on commutative algebra. I wrote them while studying for a commutative algebra course (MMA330) taken at Göteborg University.
+I never quite finished them, as I didn't end up needing to.
+
+**Tensor algebras & polynomial rings.** Available [here](/writings/tensor-algebra.pdf). A very brief note that I wrote to help a friend of mine understand tensor algebras. I think there may be slightly unconventional
+notation in it.
+
+## BSc. & MSc. Theses
+
+1. **MSc. Thesis.** My master's thesis can be found [here](/writings/masters-thesis.pdf).
+1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or
+{reversed="reversed"}

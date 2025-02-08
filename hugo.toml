@@ -7,6 +7,9 @@ title = 'Carl-Fredrik Lidgren'
   [[module.imports]]
     path = 'github.com/adityatelange/hugo-PaperMod'
 
+[markup.goldmark.parser.attribute]
+block = true
+
 [params]
   defaultTheme = "dark"
 

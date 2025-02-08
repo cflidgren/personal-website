@@ -58,7 +58,7 @@ Below, I have tried to compile a list of some things I've found interesting, whe
   - the Langlands program,
   - etc.
 
-
+Of course, I also appreciate ordinary category theory and algebraic geometry. The above primarily relates the directions I want to go.
 
 
 
