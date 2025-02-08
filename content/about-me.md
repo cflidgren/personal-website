@@ -38,11 +38,49 @@ math: true
 ---
 
 
-I have an interest in mathematics and music. I have a master's degree in mathematics from Lund University.
+I have an interest in mathematics and music.
 
 
-### Research Interests
+### Mathematical Interests
 
-My interests are numerous, but mainly fall within the intersection between geometry and \\(\infty\\)-categories.
+The crux of my interests falls within the intersection between geometry and \\(\infty\\)-categories. Aside from that, I like category theory and abstract homotopy theory.
+Below, I have tried to compile a list of some things I've found interesting, whether or not I know anything deep about them.
 
+- Derived/spectral algebraic geometry.
+- Condensed mathematics, and the (derived) analytic geometry one can do with it.
+- Motivic homotopy theory.
+- \\(\infty\\)-category theory and higher algebra.
+- \\(K\\)-theory of \\(\infty\\)-categories.
+- Applications of the above to
+  - algebraic/arithmetic/analytic geometry,
+  - number theory,
+  - (stable) homotopy theory,
+  - the Langlands program,
+  - etc.
+
+
+
+
+
+### Education
+
+*Note.* Lund University does not offer an GPA or equivalent. The provided grade is for the final thesis project.
+
+**2021--2023.** _Master of Science_ in mathematics, at Lund University, Sweden.\
+*Thesis:* t-Structures and Recollements.\
+*Advisor:* Prof. Dr. Gustavo Jasso.\
+*Grade:* VG (Pass with distinction).
+
+**2018--2021.** _Bachelor of Science_ in mathematics, at Lund University, Sweden.\
+*Thesis:* Scheme theory & weak Mordell--Weil for elliptic curves over number fields.\
+*Advisor:* Dr. Oscar Marmon.\
+*Grade:* VG (Pass with distinction).
+
+**2016--2018.** _High school._ IB (International Baccalaureate) Diploma Programme, at Katedralskolan, Lund, Sweden. _Grade: 34/42._
+
+
+
+### Musical Interests
+
+I make experimental rock music, and have been playing piano since 2006.
 

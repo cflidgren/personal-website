@@ -8,7 +8,7 @@ title = 'Carl-Fredrik Lidgren'
     path = 'github.com/adityatelange/hugo-PaperMod'
 
 [params]
-  defaultTheme = "auto"
+  defaultTheme = "dark"
 
   [params.homeInfoParams]
   Title = "Carl-Fredrik Lidgren"
@@ -22,6 +22,10 @@ title = 'Carl-Fredrik Lidgren'
   name = "Bandcamp"
   url = "https://gren.bandcamp.com"
 
+  [[params.socialIcons]]
+  name = "email"
+  url = "carl.fredrik.lidgren@gmail.com"
+
   [params.profileMode]
   enabled=true
   subtitle='Mathematician & Musician'
@@ -30,10 +34,29 @@ title = 'Carl-Fredrik Lidgren'
   name = "About Me"
   url = "/about-me"
 
+  [[params.profileMode.buttons]]
+  name = "Writings"
+  url = "/writings"
+
+  [[params.profileMode.buttons]]
+  name = "Music"
+  url = "/music"
+
 [[menu.main]]
   identifier = "about-me"
   name = "About Me"
   url = "/about-me"
   weight = 10
 
+[[menu.main]]
+  identifier = "writings"
+  name = "Writings"
+  url = "/writings"
+  weight = 20
+
+[[menu.main]]
+  identifier = "music"
+  name = "Music"
+  url = "/music"
+  weight = 30
 

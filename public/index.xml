@@ -6,16 +6,55 @@
     <description>Recent content on Carl-Fredrik Lidgren</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Feb 2025 19:14:43 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 19:50:58 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writings</title>
+      <link>http://localhost:1313/writings/</link>
+      <pubDate>Sat, 08 Feb 2025 19:50:58 +0100</pubDate>
+      <guid>http://localhost:1313/writings/</guid>
+      <description>&lt;p&gt;This page collects what writing I have done in the academic sphere.&lt;/p&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>http://localhost:1313/music/</link>
+      <pubDate>Sat, 08 Feb 2025 19:50:24 +0100</pubDate>
+      <guid>http://localhost:1313/music/</guid>
+      <description>&lt;p&gt;I make experimental rock music, available on &lt;a href=&#34;https://gren.bandcamp.com&#34; title=&#34;Grenly | Bandcamp&#34;&gt;bandcamp&lt;/a&gt;. On the bottom of this page, I have embedded all albums from my bandcamp page for ease of access,
+in reverse-chronological order. There is over 20 hours of music.&lt;/p&gt;
+&lt;p&gt;I recommend &lt;em&gt;Looking Down Into a Hole&lt;/em&gt; and &lt;em&gt;Landscape Impressions.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve played piano since 2006, when I was 6 years old. More recently, I picked up guitar around 2018. I am also able to make semi-reasonable noises on saxophone. Besides those, I&amp;rsquo;ve tried
+playing drums, cello, violin, accordion, trombone, and sitar with varying levels of success.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about-me/</link>
       <pubDate>Sat, 08 Feb 2025 19:14:43 +0100</pubDate>
       <guid>http://localhost:1313/about-me/</guid>
-      <description>&lt;p&gt;I have an interest in mathematics and music. I have a master&amp;rsquo;s degree in mathematics from Lund University.&lt;/p&gt;
-&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h3&gt;
-&lt;p&gt;My interests are numerous, but mainly fall within the intersection between geometry and \(\infty\)-categories.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have an interest in mathematics and music.&lt;/p&gt;
+&lt;h3 id=&#34;mathematical-interests&#34;&gt;Mathematical Interests&lt;/h3&gt;
+&lt;p&gt;The crux of my interests falls within the intersection between geometry and \(\infty\)-categories. Aside from that, I like category theory and abstract homotopy theory.
+Below, I have tried to compile a list of some things I&amp;rsquo;ve found interesting, whether or not I know anything deep about them.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Derived/spectral algebraic geometry.&lt;/li&gt;
+&lt;li&gt;Condensed mathematics, and the (derived) analytic geometry one can do with it.&lt;/li&gt;
+&lt;li&gt;Motivic homotopy theory.&lt;/li&gt;
+&lt;li&gt;\(\infty\)-category theory and higher algebra.&lt;/li&gt;
+&lt;li&gt;\(K\)-theory of \(\infty\)-categories.&lt;/li&gt;
+&lt;li&gt;Applications of the above to
+&lt;ul&gt;
+&lt;li&gt;algebraic/arithmetic/analytic geometry,&lt;/li&gt;
+&lt;li&gt;number theory,&lt;/li&gt;
+&lt;li&gt;(stable) homotopy theory,&lt;/li&gt;
+&lt;li&gt;the Langlands program,&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;education&#34;&gt;Education&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Note.&lt;/em&gt; Lund University does not offer an GPA or equivalent. The provided grade is for the final thesis project.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
