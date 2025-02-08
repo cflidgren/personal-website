@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.cflidgren.info/'
 languageCode = 'en-us'
 title = 'Carl-Fredrik Lidgren'
 #theme = "PaperMod"
@@ -24,7 +24,7 @@ title = 'Carl-Fredrik Lidgren'
 
   [[params.socialIcons]]
   name = "email"
-  url = "carl.fredrik.lidgren@gmail.com"
+  url = "mailto:carl.fredrik.lidgren@gmail.com"
 
   [params.profileMode]
   enabled=true
