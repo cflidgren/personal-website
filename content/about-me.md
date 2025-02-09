@@ -82,5 +82,25 @@ Of course, I also appreciate ordinary category theory and algebraic geometry. Th
 
 ### Musical Interests
 
-I make experimental rock music, and have been playing piano since 2006.
+I make experimental rock music, and have been playing piano since 2006. See [this page](/music) for a more in-depth explanation.
 
+### Other Interests
+
+I've had an on-and-off interest in programming since I was in middle school. At some point, I chose to focus on math instead, but I still retain a basic
+interest in programming and computers. One day, I will write a toy program in `rust` (actually, I want to write an actually good, native linux music player and organizer à la MusicBee on Windows).
+I've done a lot of python programming.
+
+For anyone wishing to dump Windows and move to linux, I recommend CachyOS.
+
+I also like film. Here are some:
+- *The Taste of Tea.* A really incredible film.
+- *Apocalypse Now.* Used to be my favourite film before being topped by the above. I didn't like the director's cut much.
+- *Fear and Loathing in Las Vegas.* My favourite comedy. One of the only film adaptations of a book I've seen that does justice to the source material. Terry Gilliam has also made the incredible *Brazil*, amongst other things.
+- Takeshi Kitano's "art films": *Hana-bi*, *Sonatine*, *Dolls*, and *Takeshis'.*
+- Hideaki Anno's films: *Love & Pop* and *Ritual.* Curiously, the latter is co-written by one of Steven Seagal's daughters.
+- Akira Kurosawa's films: Of course the classics like *Seven Samurai* and *Ikiru*, but his later films are somewhat underlooked. The movies *Dreams* and *Madadayo* are both very compelling.
+- Werner Herzog's films and documentaries. Too many to list. *Grizzly Man* also features music by Jim O'Rourke, one of my favourite musicians.
+- Charlie Kaufman's films: *Being John Malkovich*, *Adaptation*, and *Synecdoche, New York* are all very good.
+- *The Happiness of the Katakuris.* An absolutely absurd film by Takashi Miike. There is very little like it.
+- *Koyaanisqatsi.* A beautifully shot collage.
+- *Du levande.* A Swedish dark comedy film by Roy Andersson. Hilarious in its own way.
