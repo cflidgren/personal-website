@@ -53,7 +53,7 @@ Sometimes I write notes on topics I'm interested in. They are not polished, and 
 **Lecture notes.** Available [here](/writings/lectures.pdf). An assortment of lecture notes, primarily on category theory, in preparation for mostly private lectures
 to some friends. Don't have good name for it because it's not a focused project.
 
-**Final objects in \\(\infty\\)-categories.** Available [here](/writing/higher-categories-learning-seminar-2025-01-15.pdf). Follows Cisinski's 2019 book. Written as lecture notes in
+**Final objects in \\(\infty\\)-categories.** Available [here](/writings/higher-categories-learning-seminar-2025-01-15.pdf). Follows Cisinski's 2019 book. Written as lecture notes in
 preparation for a talk held in the introductory branch of a learning seminar on higher categories, organized by Bernhard Keller and Gustavo Jasso.
 
 **Commutative algebra.** Available [here](/writings/mma330-notes.pdf). Notes based on Miles Reid's book on commutative algebra. I wrote them while studying for a commutative algebra course (MMA330) taken at Göteborg University.
