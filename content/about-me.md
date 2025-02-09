@@ -38,7 +38,7 @@ math: true
 ---
 
 
-I have an interest in mathematics and music.
+I have an interest in mathematics and music. See [writings](/writings) for a collection of my mathematical work.
 
 
 ### Mathematical Interests
