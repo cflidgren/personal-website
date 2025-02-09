@@ -32,6 +32,10 @@
     background-color: #d9534f;
 }
 
+.id-lup {
+    background-color: #b86800; /* unsure if i want #e68405 or #875e29 or #8e5614 or #dc8109 or #b86800 */
+}
+
 .id-key {
     border-radius: 0 4px 4px 0;
     padding-left: 0.5em;

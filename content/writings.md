@@ -41,8 +41,10 @@ This page collects some writing I have done in the mathematical sphere.
 
 ## Preprints
 
-1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._ {{< arxiv "2410.19161" >}}
-1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _On joint eigen-decompositions of matrices._ {{< arxiv "2409.10292">}}
+1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._
+{{<badges>}} {{< arxiv "2410.19161" >}} {{</badges>}}
+1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _On joint eigen-decompositions of matrices._
+{{<badges>}}{{< arxiv "2409.10292">}}{{</badges>}}
 {reversed="reversed"}
 
 ## Notes
@@ -62,6 +64,6 @@ notation in it.
 
 ## BSc. & MSc. Theses
 
-1. **MSc. Thesis.** My master's thesis can be found [here](/writings/masters-thesis.pdf).
-1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or
+1. **MSc. Thesis.** My master's thesis can be found [here](/writings/masters-thesis.pdf). For administrative reasons I don't really understand, this is not on the LU Student Papers site yet.
+1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9061112">}} {{</badges>}}
 {reversed="reversed"}
