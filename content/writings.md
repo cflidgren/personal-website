@@ -67,3 +67,6 @@ notation in it.
 1. **MSc. Thesis.** My master's thesis can be found [here](/writings/masters-thesis.pdf). For administrative reasons I don't really understand, this is not on the LU Student Papers site yet.
 1. **BSc. Thesis.** My bachelor's thesis can be found [here](/writings/bachelors-thesis.pdf) or at: {{<badges>}} {{<lup "9061112">}} {{</badges>}}
 {reversed="reversed"}
+
+*Note.* My Bachelor's thesis has many mistakes in it, and I've been working on personal notes which significantly improve upon it. Unfortunately, they are not complete enough for me to be comfortable releasing them.
+Due to other obligations, it is likely there will be quite some time until that changes.
