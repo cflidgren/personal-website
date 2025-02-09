@@ -1,0 +1,12 @@
+
+.button {
+    background-color: darkslategrey;
+    border-radius: 20px;
+    border-color: lightslategrey;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.button-inner {
+    vertical-align: text-bottom;
+}

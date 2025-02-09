@@ -10,8 +10,12 @@ title = 'Carl-Fredrik Lidgren'
 [markup.goldmark.parser.attribute]
 block = true
 
+
 [params]
   defaultTheme = "dark"
+
+  # [params.assets]
+  # theme_color = "#330500"
 
   [params.homeInfoParams]
   Title = "Carl-Fredrik Lidgren"

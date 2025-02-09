@@ -40,8 +40,9 @@ math: true
 
 I have an interest in mathematics and music. See [writings](/writings) for a collection of my mathematical work.
 
+---
 
-### Mathematical Interests
+## Mathematical Interests
 
 The crux of my interests falls within the intersection between geometry and \\(\infty\\)-categories. Aside from that, I like category theory and abstract homotopy theory.
 Below, I have tried to compile a list of some things I've found interesting, whether or not I know anything deep about them.
@@ -78,21 +79,25 @@ Of course, I also appreciate ordinary category theory and algebraic geometry. Th
 
 **2016--2018.** _High school._ IB (International Baccalaureate) Diploma Programme, at Katedralskolan, Lund, Sweden. _Grade: 34/42._
 
+---
 
-
-### Musical Interests
+## Musical Interests
 
 I make experimental rock music, and have been playing piano since 2006. See [this page](/music) for a more in-depth explanation.
 
-### Other Interests
+---
 
+## Other Interests
+
+#### Programming
 I've had an on-and-off interest in programming since I was in middle school. At some point, I chose to focus on math instead, but I still retain a basic
 interest in programming and computers. One day, I will write a toy program in `rust` (actually, I want to write an actually good, native linux music player and organizer à la MusicBee on Windows).
 I've done a lot of python programming.
 
 For anyone wishing to dump Windows and move to linux, I recommend CachyOS.
 
-I also like film. Here are some:
+#### Film
+I also like films. Here are some:
 - *The Taste of Tea.* A really incredible film.
 - *Apocalypse Now.* Used to be my favourite film before being topped by the above. I didn't like the director's cut much.
 - *Fear and Loathing in Las Vegas.* My favourite comedy. One of the only film adaptations of a book I've seen that does justice to the source material. Terry Gilliam has also made the incredible *Brazil*, amongst other things.

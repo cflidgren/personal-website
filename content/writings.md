@@ -39,6 +39,8 @@ math: true
 
 This page collects some writing I have done in the mathematical sphere.
 
+---
+
 ## Preprints
 
 1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._
@@ -46,6 +48,8 @@ This page collects some writing I have done in the mathematical sphere.
 1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _On joint eigen-decompositions of matrices._
 {{<badges>}}{{< arxiv "2409.10292">}}{{</badges>}}
 {reversed="reversed"}
+
+---
 
 ## Notes
 Sometimes I write notes on topics I'm interested in. They are not polished, and I rarely read them again after writing them. Therefore, expect that they should not be taken too seriously.
@@ -61,6 +65,8 @@ I never quite finished them, as I didn't end up needing to.
 
 **Tensor algebras & polynomial rings.** Available [here](/writings/tensor-algebra.pdf). A very brief note that I wrote to help a friend of mine understand tensor algebras. I think there may be slightly unconventional
 notation in it.
+
+---
 
 ## BSc. & MSc. Theses
 

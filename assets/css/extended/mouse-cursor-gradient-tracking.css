@@ -1,0 +1,33 @@
+
+.mouse-cursor-gradient-tracking {
+    position: relative;
+    overflow: hidden;
+}
+
+.mouse-cursor-gradient-tracking span {
+    position: relative;
+    pointer-events: none;
+}
+
+.mouse-cursor-gradient-tracking::before {
+    --size: 0px;
+    --gradient-color: #66828f; /* some colours: #a173ab #9f90a2 #86a0ac #7997a4 #6d8d9c #816d9c #66828f */
+    content: '';
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    width: var(--size);
+    height: var(--size);
+    background: radial-gradient(circle closest-side, var(--gradient-color), transparent);
+    transform: translate(-50%, -50%);
+    transition: width 0.13s ease, height 0.13s ease;
+}
+
+.mouse-cursor-gradient-tracking:hover::before {
+    --size: 150px;
+}
+
+.mouse-cursor-gradient-tracking:active::before {
+    --gradient-color: #816d9c;
+}
+
