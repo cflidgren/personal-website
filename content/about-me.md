@@ -52,12 +52,14 @@ Below, I have tried to compile a list of some things I've found interesting, whe
 - Motivic homotopy theory.
 - \\(\infty\\)-category theory and higher algebra.
 - \\(K\\)-theory of \\(\infty\\)-categories.
+- "Categorical" theories of geometry, like tt-geometry, and noncommutative algebraic geometry more broadly.
 - Applications of the above to
   - algebraic/arithmetic/analytic geometry,
   - number theory,
   - (stable) homotopy theory,
   - the Langlands program,
   - etc.
+- (Homotopy) type theory, for its applications in proof verification and in possibly making \\(\infty\\)-categories more approachable.
 
 Of course, I also appreciate ordinary category theory and algebraic geometry. The above primarily relates the directions I want to go.
 
@@ -92,7 +94,8 @@ I make experimental rock music, and have been playing piano since 2006. See [thi
 #### Programming
 I've had an on-and-off interest in programming since I was in middle school. At some point, I chose to focus on math instead, but I still retain a basic
 interest in programming and computers. One day, I will write a toy program in `rust` (actually, I want to write an actually good, native linux music player and organizer à la MusicBee on Windows).
-I've done a lot of python programming.
+I've done a lot of python programming. I also have a small amount of experience with Haskell, from taking a course on functional programming at LTH in Lund, Sweden. It's
+a neat language. I've played around a little bit with Lean in the past, but not a whole lot.
 
 For anyone wishing to dump Windows and move to linux, I recommend CachyOS.
 
