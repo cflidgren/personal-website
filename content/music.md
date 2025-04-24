@@ -47,6 +47,12 @@ playing drums, cello, violin, accordion, trombone, and sitar with varying levels
 
 I encourage anyone interested in playing with me to contact me.
 
+## Compositions
+Below is a list of my *written* compositions. As of yet, only one!
+1. *Untitled,* for two guitars. 2025. Score available [here](/scores/for-two-guitars.pdf).
+
+## Inspirations
+
 I will attempt to describe my musical inspirations. Everything I listen to has influenced me, and I have listened to a lot. Below is a highly non-exhaustive list of musicians and composers, the quality of which I aspire to meet.
 
 #### Influences:
