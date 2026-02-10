@@ -31,11 +31,11 @@ block = true
 
   [[params.socialIcons]]
   name = "email"
-  url = "mailto:carl.fredrik.lidgren@gmail.com"
+  url = "mailto:cflidgren@pm.me"
 
   [params.profileMode]
   enabled=true
-  subtitle='Mathematician & Musician'
+  subtitle='Mathematician & Musician.'
 
   [[params.profileMode.buttons]]
   name = "About Me"
@@ -44,6 +44,10 @@ block = true
   [[params.profileMode.buttons]]
   name = "Writings"
   url = "/writings"
+
+  [[params.profileMode.buttons]]
+  name = "Teaching"
+  url = "/teaching"
 
   [[params.profileMode.buttons]]
   name = "Music"
@@ -62,8 +66,14 @@ block = true
   weight = 20
 
 [[menu.main]]
+  identifier = "teaching"
+  name = "Teaching"
+  url = "/teaching"
+  weight = 30
+
+[[menu.main]]
   identifier = "music"
   name = "Music"
   url = "/music"
-  weight = 30
+  weight = 40
 

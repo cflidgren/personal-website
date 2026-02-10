@@ -13,7 +13,7 @@ hidemeta: true
 comments: false
 # description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+#disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -37,8 +37,13 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+I am a PhD student at the University of Luxembourg, working under the supervision of [Sarah Schertozke](https://sites.google.com/view/sarahscherotzke/).
+
 
 I have an interest in mathematics and music. See [writings](/writings) for a collection of my mathematical work.
+
+For inquiries related to mathematics, consider contacting me at my university email:
+- carl-fredrik.lidgren (at) uni.lu
 
 ---
 
@@ -68,6 +73,8 @@ Of course, I also appreciate ordinary category theory and algebraic geometry. Th
 ### Education
 
 *Note.* Lund University does not offer an GPA or equivalent. The provided grade is for the final thesis project.
+
+**2025--Present.** _PhD_ in mathematics at the University of Luxembourg.
 
 **2021--2023.** _Master of Science_ in mathematics, at Lund University, Sweden.\
 *Thesis:* t-Structures and Recollements.\

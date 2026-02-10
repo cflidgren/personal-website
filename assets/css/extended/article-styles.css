@@ -32,6 +32,14 @@
     background-color: #d9534f;
 }
 
+.id-doi {
+    background-color: #0a0a0a;
+}
+
+.id-mr {
+    background-color: #337ab7;
+}
+
 .id-lup {
     background-color: #b86800; /* unsure if i want #e68405 or #875e29 or #8e5614 or #dc8109 or #b86800 */
 }

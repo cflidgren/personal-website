@@ -13,7 +13,7 @@ hidemeta: true
 comments: false
 # description: "Desc Text."
 # canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+#disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -40,7 +40,7 @@ UseHugoToc: true
 I make experimental rock music, available on [bandcamp](https://gren.bandcamp.com "Grenly | Bandcamp"). On the bottom of this page, I have embedded all albums from my bandcamp page for ease of access,
 in reverse-chronological order. There is over 20 hours of music.
 
-I recommend *Looking Down Into a Hole* and *Landscape Impressions.*
+I recommend *Looking Down Into a Hole* and *Landscape Impressions.* More recently, *Music Without Motion.*
 
 I've played piano since 2006, when I was 6 years old. More recently, I picked up guitar around 2018. I am also able to make semi-reasonable noises on saxophone. Besides those, I've tried
 playing drums, cello, violin, accordion, trombone, and sitar with varying levels of success.
@@ -137,6 +137,8 @@ I will attempt to describe my musical inspirations. Everything I listen to has i
 
 ## Discography
 
+{{< bandcamplarge "1401406825" >}}
+{{< bandcamplarge "2927029551" >}}
 {{< bandcamplarge "539121328" >}}
 {{< bandcamplarge "998405581" >}}
 {{< bandcamplarge "2224694340" >}}
