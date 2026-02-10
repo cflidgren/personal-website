@@ -41,4 +41,4 @@ UseHugoToc: true
 I have been a teaching assistant for the following courses.
 
 #### University of Luxembourg
-1. **F1_BAINFOR-8.** Linear algebra 1 in the computer science program.
+1. **2025, Summer:** *F1_BAINFOR-8.* Linear algebra 1, in the computer science BSc program.
