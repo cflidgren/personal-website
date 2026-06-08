@@ -42,3 +42,10 @@ I have been a teaching assistant for the following courses.
 
 #### University of Luxembourg
 1. **2025, Winter:** *F1_BAINFOR-8.* Linear algebra 1, in the computer science BSc program.
+2. **2026, Summer:** *F1_BAINFOR-14.* Linear algebra 2, in the computer science BSc program.
+
+## Supervision
+
+### University of Luxembourg
+1. **2026, Summer:** Kim Lazzeri. *Introduction to Category Theory.* (Note: focus on the general adjoint functor theorem.)
+2. **2026, Summer:** Andrea Cunha Oliveira. *Introduction to Category Theory.* (Note: focus on Beck's monadicity theorem.)
