@@ -41,12 +41,15 @@ This page collects some writing I have done in the mathematical sphere.
 
 ---
 
+## Publications
+1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _A theoretical study of the objective-functional for joint eigen-decomposition of matrices._ SIAM Journal on Matrix Analysis and Applications, Vol. 46 (2025), Issue 3, p. 2061--2079.
+{{<badges>}}{{< arxiv "2409.10292">}} {{< mr "4959926" >}} {{< doi "10.1137/24M171351X">}}{{</badges>}}
+{reversed="reversed"}
+
 ## Preprints
 
 1. Falkowski, D., **Lidgren, C-F.**, _Conjugating by singular operators: On the boundedness of similarity transforms near singular points._
 {{<badges>}} {{< arxiv "2410.19161" >}} {{</badges>}}
-1. Troedsson, E., Falkowski, D., **Lidgren, C-F.**, Wendt, H., Carlsson, M., _A theoretical study of the objective-functional for joint eigen-decomposition of matrices._ SIAM Journal on Matrix Analysis and Applications, Vol. 46 (2025), Issue 3, p. 2061--2079.
-{{<badges>}}{{< arxiv "2409.10292">}} {{< mr "4959926" >}} {{< doi "10.1137/24M171351X">}}{{</badges>}}
 {reversed="reversed"}
 
 ---

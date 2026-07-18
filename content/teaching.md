@@ -36,16 +36,23 @@ UseHugoToc: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
+This is the teaching I have been officially involved with.
+
 ## Teaching Assistance
 
-I have been a teaching assistant for the following courses.
+Below is a summary of the courses I have been a teaching assistant for.
 
 #### University of Luxembourg
-1. **2025, Winter:** *F1_BAINFOR-8.* Linear algebra 1, in the computer science BSc program.
-2. **2026, Summer:** *F1_BAINFOR-14.* Linear algebra 2, in the computer science BSc program.
+*Note: BiCS = Bachelor in Computer Science.*
+1. **2025, Winter:** *F1_BAINFOR-8.* Linear algebra 1 (BiCS).
+2. **2026, Summer:** *F1_BAINFOR-14.* Linear algebra 2 (BiCS).
+
+---
 
 ## Supervision
 
-### University of Luxembourg
-1. **2026, Summer:** Kim Lazzeri. *Introduction to Category Theory.* (Note: focus on the general adjoint functor theorem.)
-2. **2026, Summer:** Andrea Cunha Oliveira. *Introduction to Category Theory.* (Note: focus on Beck's monadicity theorem.)
+Below is a summary of the theses and projects I have supervised.
+
+#### University of Luxembourg
+1. **2026, Summer:** Kim Lazzeri. *Introduction to Category Theory.* (Note: focus on the general adjoint functor theorem). Bachelor's thesis.
+2. **2026, Summer:** Andrea Cunha Oliveira. *Introduction to Category Theory.* (Note: focus on Beck's monadicity theorem). Bachelor's thesis.

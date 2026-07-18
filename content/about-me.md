@@ -37,7 +37,7 @@ math: true
 #     appendFilePath: true # to append file path to Edit link
 ---
 
-I am a PhD student at the University of Luxembourg, working under the supervision of [Sarah Schertozke](https://sites.google.com/view/sarahscherotzke/).
+I am a PhD student at the University of Luxembourg, working under the supervision of [Sarah Scherotzke](https://sites.google.com/view/sarahscherotzke/).
 
 
 I have an interest in mathematics and music. See [writings](/writings) for a collection of my mathematical work.
